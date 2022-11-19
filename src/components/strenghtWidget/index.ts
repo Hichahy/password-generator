@@ -1,0 +1,1 @@
+export { StrenghtWidged } from "./StrenghtWidget";

@@ -1,0 +1,1 @@
+export { GeneratorPassword } from "./GeneratorPassword";

@@ -1,0 +1,33 @@
+
+.widget-container {
+   background-color: #19181f;
+   margin-top: 2rem;
+
+  div {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 5px 20px;
+   
+   p {
+       color: #817e90;
+       text-transform: uppercase;
+   }
+   
+   label {
+       color: white;
+       text-transform: uppercase;
+       
+       span:nth-child(1) {
+           margin: 0 4px 0 17px;
+       }
+
+       span {
+           height: 30px;
+           width: 10px;
+           border: 1px solid white;
+           margin: 0 4px;
+       }
+   }
+  }
+}

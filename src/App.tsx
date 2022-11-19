@@ -1,10 +1,10 @@
-import { GeneratedPassword } from "./components/generatedPassword";
+import { GeneratorPassword } from "./components/generatorPassword";
+import "./styles.scss";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Password Generator</h1>
-      <GeneratedPassword />
+      <GeneratorPassword />
     </div>
   );
 }
