@@ -1,4 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
 
 body {
   margin: 0;
@@ -13,4 +14,5 @@ body {
   flex-direction: column;
   padding: 0;
   height: 100vh;
+  font-family: 'Sono', sans-serif;
 }
